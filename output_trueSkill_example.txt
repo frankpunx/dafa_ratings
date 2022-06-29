@@ -1,0 +1,52 @@
+STATS
+
+Player 1
+Total games played: 15
+Percentage games won: 1.0
+Rating: MU - 40, SIGMA - 4
+-----------------------
+
+Player 2
+Total games played: 13
+Percentage games won: 0.6923076923076923
+Rating: MU - 30, SIGMA - 6.5
+-----------------------
+
+Player 3
+Total games played: 15
+Percentage games won: 0.8
+Rating: MU - 34, SIGMA - 5
+-----------------------
+
+Player 4
+Total games played: 17
+Percentage games won: 0.7647058823529411
+Rating: MU - 32, SIGMA - 6
+-----------------------
+
+Team 1 Vs Team 2 chance to draw: 0.5814690377731149
+
+STATS
+
+Player 1
+Total games played: 16
+Percentage games won: 0.9375
+Rating: MU - 38.78173851032514, SIGMA - 3.878699218317438
+-----------------------
+
+Player 2
+Total games played: 14
+Percentage games won: 0.6428571428571429
+Rating: MU - 26.78389537324443, SIGMA - 5.962230445539946
+-----------------------
+
+Player 3
+Total games played: 16
+Percentage games won: 0.8125
+Rating: MU - 35.90323627953111, SIGMA - 4.759988545941895
+-----------------------
+
+Player 4
+Total games played: 18
+Percentage games won: 0.7777777777777778
+Rating: MU - 34.7404276893554, SIGMA - 5.579959178775589
